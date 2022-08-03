@@ -1,0 +1,15 @@
+C:\Users\sriya\source\repos\VeggieShop!\bin\Debug\VeggieShop!.exe.config
+C:\Users\sriya\source\repos\VeggieShop!\bin\Debug\VeggieShop!.exe
+C:\Users\sriya\source\repos\VeggieShop!\bin\Debug\VeggieShop!.pdb
+C:\Users\sriya\source\repos\VeggieShop!\bin\Debug\VeggieShop!.xml
+C:\Users\sriya\source\repos\VeggieShop!\obj\Debug\VeggieShop!.vbprojAssemblyReference.cache
+C:\Users\sriya\source\repos\VeggieShop!\obj\Debug\VeggieShop_.Resources.resources
+C:\Users\sriya\source\repos\VeggieShop!\obj\Debug\VeggieShop!.vbproj.GenerateResource.cache
+C:\Users\sriya\source\repos\VeggieShop!\obj\Debug\VeggieShop!.vbproj.CoreCompileInputs.cache
+C:\Users\sriya\source\repos\VeggieShop!\obj\Debug\VeggieShop!.exe
+C:\Users\sriya\source\repos\VeggieShop!\obj\Debug\VeggieShop!.xml
+C:\Users\sriya\source\repos\VeggieShop!\obj\Debug\VeggieShop!.pdb
+C:\Users\sriya\source\repos\VeggieShop!\obj\Debug\VeggieShop_.LoginForm.resources
+C:\Users\sriya\source\repos\VeggieShop!\obj\Debug\VeggieShop_.SignUpForm.resources
+C:\Users\sriya\source\repos\VeggieShop!\obj\Debug\VeggieShop_.LoginForm1.resources
+C:\Users\sriya\source\repos\VeggieShop!\obj\Debug\VeggieShop_.Items.resources
